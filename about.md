@@ -1,6 +1,5 @@
-# About Ametu Edu
-
-## Pioneering Technological Education for a Better Tomorrow
+## About Ametu Edu
+### Pioneering Technological Education for a Better Tomorrow
 
 Ametu Edu stands at the intersection of education and technological advancement, a non-profit beacon of progress in the ever-evolving landscape of computer science education. We are driven by the belief that education is the most powerful catalyst for change, a means to empower and an end to inequality.
 
