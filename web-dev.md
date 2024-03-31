@@ -1,6 +1,6 @@
- 
+
 ---
- 
+
 ###### 1. Put the scripts in the right order of execution
 
 - A: `<script defer src="defer1.js" />` (loads in **300ms**)
@@ -10,7 +10,7 @@
 - A:  `<script async defer src="asyncdefer1.js" />` (loads in **60ms**)
  
 
- <details><summary><b>Answer</b></summary>
+<details><summary><b>Answer</b></summary>
 <p>
 
 #### Answer: D
