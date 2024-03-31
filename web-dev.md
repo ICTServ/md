@@ -15,10 +15,10 @@
 
 #### Answer: D
   
-Resources: 
- - https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async
- - https://javascript.info/script-async-defer
- - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+#### Resources 
+ . https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async
+ . https://javascript.info/script-async-defer
+ . https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
 
 </p>
 </details>
