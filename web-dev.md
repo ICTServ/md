@@ -4,10 +4,10 @@
 ###### 1. Put the scripts in the right order of execution
 
 - A: `<script defer src="defer1.js" />` (loads in **300ms**)
-- A:  `<script defer src="defer2.js" />` (loads in **200ms**)
-- A: `<script async src="async1.js" />` (loads in **300ms**)
-- A:  `<script async src="async2.js" />` (loads in **50ms**)
-- A:  `<script async defer src="asyncdefer1.js" />` (loads in **60ms**)
+- B:  `<script defer src="defer2.js" />` (loads in **200ms**)
+- C: `<script async src="async1.js" />` (loads in **300ms**)
+- D:  `<script async src="async2.js" />` (loads in **50ms**)
+- E:  `<script async defer src="asyncdefer1.js" />` (loads in **60ms**)
  
 
 <details><summary><b>Answer</b></summary>
