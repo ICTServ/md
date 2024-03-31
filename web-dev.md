@@ -8,19 +8,19 @@
 - C. `<script async src="async1.js" />` (loads in **300ms**)
 - D. `<script async src="async2.js" />` (loads in **50ms**)
 - E. `<script async defer src="asyncdefer1.js" />` (loads in **60ms**)
+ 
 
-<details>
-<summary>💡 <b>Resources</b></summary>
- <br />
- 
- Answer:
- - [**Watch Answer & Explanation**](https://frontendmasters.com/courses/web-dev-quiz/q1-async-defer-execution-order/)
- 
-Further reading: 
+ <details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: D
+  
+Resources: 
  - https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async
  - https://javascript.info/script-async-defer
  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
- 
+
+</p>
 </details>
 
 ---
