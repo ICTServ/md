@@ -43,5 +43,5 @@ We reserve the right to modify or replace these Terms at any time. If we make ma
 
 ## 8. Contact Us
 
-If you have any questions or concerns about these Terms, please [contact us](/contact-us).
+If you have any questions or concerns about these Terms, please [contact us](/contact).
  
