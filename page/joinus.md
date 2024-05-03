@@ -3,10 +3,10 @@
 Ametu Edu, a non-profit dedicated to advancing technology education, invites organizations and professionals to join us in our mission to equip aspiring computer scientists and developers. By partnering with Ametu Edu, you can contribute to shaping the educational and career pathways for students worldwide. Here are several impactful ways to support our initiatives:
 
 ### For Employers:
-- **Post Job Openings:** Utilize our dedicated job portal to reach a diverse group of talented students trained in the latest technologies. By posting your vacancies on our platform, you not only gain access to top-tier talent but also demonstrate your commitment to nurturing the future of the tech industry.
+- ***Post Job Openings:** Utilize our dedicated job portal to reach a diverse group of talented students trained in the latest technologies. By posting your vacancies on our platform, you not only gain access to top-tier talent but also demonstrate your commitment to nurturing the future of the tech industry.
 
 ### For Sponsors:
-- **Financial Support:** Your financial contributions are vital to our operations and expansion. As a sponsor, your company will be featured on our platform, providing you with significant exposure while supporting a noble cause. This is an excellent opportunity for branding and showing your company's commitment to tech education and community development.
+- ***Financial Support:** Your financial contributions are vital to our operations and expansion. As a sponsor, your company will be featured on our platform, providing you with significant exposure while supporting a noble cause. This is an excellent opportunity for branding and showing your company's commitment to tech education and community development.
 
 ### For Educational Institutions:
 - **Student Referrals:** Enhance your students' educational journey by referring them to our platform, where they can access a wealth of resources and real-world opportunities. Partnering with Ametu Edu allows your institution to expand its offerings and support students’ career aspirations effectively.
